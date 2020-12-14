@@ -16,6 +16,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/BENULL)](https://github.com/BENULL)
 
 ### 🌱 Reach me
+[![QQ](https://img.shields.io/badge/QQ-327137362-blue)](https://github.com/BENULL)
+[![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-ltobenull-green)](https://github.com/BENULL)
 [![Github](https://img.shields.io/github/followers/benull?label=Github&style=social)](https://github.com/BENULL)
 [![Blog](https://img.shields.io/badge/Blog-BENULL's%20Blog-blue)](http://blog.benull.top)
 [![Mail](https://img.shields.io/badge/-ltobenull%40gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:ltobenull@gmail.com)
