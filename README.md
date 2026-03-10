@@ -1,7 +1,11 @@
 ### 你好，世界 👋
 #### Tomorrow is another day !
-[![Stat](https://github-readme-stats-nine-sage-96.vercel.app/api?username=benull)](https://github.com/BENULL)
-[![Top Langs](https://github-readme-stats-nine-sage-96.vercel.app/api/top-langs/?username=benull)](https://github.com/BENULL)
+<a href="https://github.com/BENULL">
+  <img height=200 align="center" src="https://github-readme-stats-nine-sage-96.vercel.app/api?username=benull" />
+</a>
+<a href="https://github.com/BENULL">
+  <img height=200 align="center" src="https://github-readme-stats-nine-sage-96.vercel.app/api/top-langs?username=benull&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### 🤝🏻 Tech Stack
 
