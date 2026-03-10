@@ -1,8 +1,6 @@
 ### 你好，世界 👋
 #### Tomorrow is another day !
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=benull&show_icons=true&theme=vue&hide_title=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benull&layout=compact)](https://github.com/BENULL)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=benull)](https://github.com/BENULL)
 
 ### 🤝🏻 Tech Stack
 
